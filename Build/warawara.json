@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "warawara.data.unityweb",
+"asmCodeUrl": "warawara.asm.code.unityweb",
+"asmMemoryUrl": "warawara.asm.memory.unityweb",
+"asmFrameworkUrl": "warawara.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
